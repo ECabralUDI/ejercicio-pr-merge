@@ -1,0 +1,13 @@
+## Resumen del cambio
+- Motivo:
+- Alcance:
+
+## Checklist
+-[] Titulo claro
+-[] Descripcion util (que y por que)
+-[] Cambio minimo (un tema)
+-[] Formato consistente (viñetas, encabezados)
+-[] Ortografia revisada
+
+## Evidencia
+- Secciones/lines afectadas:
